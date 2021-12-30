@@ -38,9 +38,9 @@ for i in s2:
 #    print(i)
 
 #if client.connect:
-#    print("Conectei nessa bucetinha gostosa")
+#    print("yes")
 #else: 
-#    print("Você não conectou esse lixo")
+#    print("no")
 
 #print(stdout.close)
 
