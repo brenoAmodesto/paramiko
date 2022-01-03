@@ -20,7 +20,7 @@ sftp = paramiko.SFTPClient.from_transport(transport)
 stdout = [sftp.lstat(remote_path), sftp.listdir(remote_path)]
 s2 = stdout
 
-for i sadasasdasddsadsadsain s2:
+for i in s2:
     print(i)
 
 #sftp.stat(remote_path)
